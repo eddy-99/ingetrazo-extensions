@@ -1,0 +1,21 @@
+id = "blend"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/800eeef25c4d35d2c47b6c51e7b24f9deb10a7a0/plugins/3D_Eddys/ed3d_blend.py"
+sha256 = "b2bc5d52b83d65c6d84a41705857fc59bb7f712ce5a031c2b0191013fc66c76f"
+ingetrazo = "0.5.11"
+tags = ["drawing", "fabrication"]
+screenshot = "blend.webp"
+
+[name]
+es = "Fusión 3D"
+en = "3D Blend"
+pt = "Fusão 3D"
+
+[summary]
+es = "Une un objeto con otro de forma suave donde se tocan, como una cúpula sobre una caldera o un poste sobre un pedestal, o pone un collarín redondo o cuadrado con tuercas y pernos. Se imprime como una sola pieza."
+en = "Blends one object smoothly into another where they meet, like a dome into a boiler or a post into a plinth, or puts a round or square collar with nuts and bolts round the join. Prints as one piece."
+pt = "Une um objeto a outro de forma suave onde se encontram, como uma cúpula numa caldeira ou um poste num pedestal, ou põe um colar redondo ou quadrado com porcas e parafusos. Imprime-se numa só peça."
