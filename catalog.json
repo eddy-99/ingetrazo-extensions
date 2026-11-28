@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-28T11:13Z",
+ "generated": "2026-11-28T11:15Z",
  "tags": [
   "analysis",
   "architecture",
@@ -363,13 +363,13 @@
   },
   {
    "id": "plugins_toolbar",
-   "version": "1.22",
+   "version": "1.23",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/6b4a788fd66062ff37f6280a6306285157065d01/plugins/3D_Eddys/ed3d_plugins_toolbar.py",
-   "sha256": "df8f431fdb375df1f4ec213566edd3385f248daa8352ca042205fae66cd4e7cd",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/38775dfb6ea25fcc565f7e3d3c3d507a27417899/plugins/3D_Eddys/ed3d_plugins_toolbar.py",
+   "sha256": "b5fcaae32fd2f7a76d61c47c02155efee0ec76817a2783ecf4d7dc8a237adfc3",
    "ingetrazo": "0.5.11",
    "tags": [
     "productivity"
@@ -387,7 +387,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-23T10:11Z",
+   "updated_at": "2026-11-28T11:14Z",
    "screenshot_sha": "f8ac91d11b01ea0b",
    "thumb": "plugins_toolbar.webp"
   },
