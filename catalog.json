@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-28T11:16Z",
+ "generated": "2026-11-28T11:18Z",
  "tags": [
   "analysis",
   "architecture",
@@ -3874,13 +3874,13 @@
   },
   {
    "id": "subframe",
-   "version": "1.5",
+   "version": "1.6",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8401a0927e397fcff04b5b6f4bafc0c19a5d2cde/plugins/3D_Eddys/ed3d_subframe.py",
-   "sha256": "a968f43a32be5468f79c2cefe21c953ffbe3fa803c55b1eec742dcbc397dc2d7",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/38775dfb6ea25fcc565f7e3d3c3d507a27417899/plugins/3D_Eddys/ed3d_subframe.py",
+   "sha256": "fd987981bff5797dfe24b88418d63a5925db7a6cd2cc04812e5198e353a19ef2",
    "ingetrazo": "0.5.11",
    "tags": [
     "drawing",
@@ -3898,7 +3898,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-16T05:31Z",
-   "updated_at": "2026-11-22T21:31Z"
+   "updated_at": "2026-11-28T11:17Z"
   },
   {
    "id": "igz_solids",
